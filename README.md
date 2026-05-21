@@ -1,3 +1,5 @@
+Paper: A Pragmatic Machine Learning Approach to Quantify Tumor-Infiltrating Lymphocytes in Whole Slide Images ([Link](https://api.nva.unit.no/publication/0198cc44342f-0b194d89-cbc9-4ffb-b2a5-78988c93ab77))
+
 1. Install or verify that the following on your system:
  - Docker 
  - Nvidia-drivers
